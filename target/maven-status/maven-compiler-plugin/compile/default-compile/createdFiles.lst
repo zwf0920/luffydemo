@@ -1,0 +1,12 @@
+com\luffy\Reposity\AdminReposity.class
+com\luffy\entity\Admin.class
+com\luffy\entity\User.class
+com\luffy\config\MyWebConfig.class
+com\luffy\Reposity\RoleReposity.class
+com\luffy\controller\UserHandler.class
+com\luffy\Reposity\UserReposity.class
+com\luffy\LuffyApplication.class
+com\luffy\controller\AdminHandler.class
+com\luffy\entity\Role.class
+com\luffy\controller\RoleHandler.class
+com\luffy\config\CrosConfig.class
